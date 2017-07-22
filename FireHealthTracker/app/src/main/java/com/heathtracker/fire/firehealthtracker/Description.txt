@@ -1,0 +1,9 @@
+The resulting phone app allows user to log their exercises (e.g., walks, runs) and display them on
+Google maps. The app that you will build is a simple fitness app for Android. It allows you to
+capture your runs and walks and view the stats on Google Maps. It uses sensors (viz. GPS,
+accelerometers) in the phone to infer your activity (e.g., running) in an automatic manner. You can
+start by building out the UI then add GPS, Google maps. You get first hand knowledge on implementing
+a native app on the phone. You can use this as a foundation for creating and programming your own
+ideas as part of the research project after summer. I will provide a high-level specification and
+some pointers on design. But, you are free to design your app as you like or follow the guidelines
+layout I’m providing.
